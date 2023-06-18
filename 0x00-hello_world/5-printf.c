@@ -1,7 +1,6 @@
 #include <stdio.h>
 /**
- *
- * main - Able to print
+ * main - print
  * Return: (0) has to be successful
  *
  */
