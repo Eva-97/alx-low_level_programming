@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
- * main - Programming language that prints 
- * Return: 0 (Success)
+ * main program is void
+ * return (0) is successful
  */
 
 int main(void)
