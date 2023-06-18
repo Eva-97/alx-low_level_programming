@@ -1,9 +1,11 @@
 #include <stdio.h>
 /**
  * main - printing
- * return: (0) is successful
+ * using put instead of print
+ *
+ * Return: (0) is always successful.
  */
-int main(void) 
+int main(void)
 { puts("\"Programming is like building a multilingual puzzle");
 return (0);
 }
