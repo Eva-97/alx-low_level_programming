@@ -6,7 +6,6 @@
  * Return: Always 0 (Success)
  */
 int main(void)
-
 {
 	unsigned int hexadecimal_number = 48;
 	char hexadecimal_alphabet = 'a';
