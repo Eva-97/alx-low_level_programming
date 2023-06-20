@@ -8,12 +8,12 @@
  */
 int main(void)
 {
-	int char = 'a';
+	char lowercase_alphabet = 'a';
 
-	while (ch <= 'z')
+	while (lowercase_alphabet <= 'z')
 	{
-		putchar(ch);
-		ch++;
+		putchar(lowercase_alphabet);
+		lowercase_alphabet++;
 	}
 	putchar('\n');
 	return (0);
